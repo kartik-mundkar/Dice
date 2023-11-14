@@ -131,8 +131,8 @@ p {
     height: 28rem;
   }
   .beads {
-    width: 2.25rem;
-    height: 2.25rem;
+    width: 2rem;
+    height: 2rem;
   }
   .diceFace {
     transform: translateX(-1.7rem);
